@@ -1,2 +1,2 @@
 # cs124-my-pintos
-Key files from my more complete Pintos implementation from the CS 124 course at Caltech
+Key OS kernel components I implemented in CS 124 (Operating Systems) at Caltech
